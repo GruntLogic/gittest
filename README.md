@@ -1,3 +1,2 @@
 # gittest
-a class test for github repositories.
-I am just going to keep adding to this repository, even though I've graduated.  
+This started as an example for class, but I'm going to keep using this repository to give examples of school work I have done.
